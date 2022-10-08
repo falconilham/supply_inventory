@@ -21,12 +21,12 @@ Open http://localhost:3000 to view it in the browser.
 
 ## Screenshoot
 
-![List Stock](https://github.com/falconilham/supply_inventory/blob/master/public/mobile%20view%20kitatani.jpg)
-![Add Stock](https://github.com/falconilham/supply_inventory/blob/master/public/mobile%20view%20kitatani%20add%20stock.jpg)
-![Deduct todo](https://github.com/falconilham/supply_inventory/blob/master/public/mobile%20view%20kitatani%20deduct%20stock.jpg)
-![Add Stock Success](https://github.com/falconilham/supply_inventory/blob/master/public/mobile%20view%20kitatani%20add%20stock%20success.jpg)
-![Deduct Stock Success](https://github.com/falconilham/supply_inventory/blob/master/public/mobile%20view%20kitatani%20deduct%20stock%20success.jpg)
-![Deduct Stock Error](https://github.com/falconilham/supply_inventory/blob/master/public/mobile%20view%20kitatani%20deduct%20stock%20error.jpg)
+![List Stock](https://github.com/falconilham/supply_inventory/blob/master/public/assets/mobile%20view%20kitatani.jpg)
+![Add Stock](https://github.com/falconilham/supply_inventory/blob/master/public/assets/mobile%20view%20kitatani%20add%20stock.jpg)
+![Deduct todo](https://github.com/falconilham/supply_inventory/blob/master/public/assets/mobile%20view%20kitatani%20deduct%20stock.jpg)
+![Add Stock Success](https://github.com/falconilham/supply_inventory/blob/master/public/assets/mobile%20view%20kitatani%20add%20stock%20success.jpg)
+![Deduct Stock Success](https://github.com/falconilham/supply_inventory/blob/master/public/assets/mobile%20view%20kitatani%20deduct%20stock%20success.jpg)
+![Deduct Stock Error](https://github.com/falconilham/supply_inventory/blob/master/public/assets/mobile%20view%20kitatani%20deduct%20stock%20error.jpg)
 
 Feel free to contact me if anything happen on ilhama36@gmail.com
 Github: https://github.com/falconilham
