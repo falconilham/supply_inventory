@@ -6,7 +6,7 @@
 
 ## Instalation
 
-### git clone https://github.com/falconilham/todo-saga-reactjs.git
+### git clone https://github.com/falconilham/supply_inventory.git
 
 to download/clone this App
 
@@ -21,10 +21,12 @@ Open http://localhost:3000 to view it in the browser.
 
 ## Screenshoot
 
-![List todo](https://github.com/falconilham/todo-saga-reactjs/blob/master/public/ListTodo.jpg?raw=true)
-![Add todo](https://github.com/falconilham/todo-saga-reactjs/blob/master/public/AddTodo.jpg?raw=true)
-![Remove todo](https://github.com/falconilham/todo-saga-reactjs/blob/master/public/RemoveTodo.jpg?raw=true)
-![Edit todo](https://github.com/falconilham/todo-saga-reactjs/blob/master/public/EditTodo.jpg?raw=true)
+![List Stock](https://github.com/falconilham/supply_inventory/blob/master/public/mobile%20view%20kitatani.jpg?raw=true)
+![Add Stock](https://github.com/falconilham/supply_inventory/blob/master/public/mobile%20view%20kitatani%20add%20stock.jpg?raw=true)
+![Deduct todo](https://github.com/falconilham/supply_inventory/blob/master/public/mobile%20view%20kitatani%20deduct%20stock.jpg?raw=true)
+![Add Stock Success](https://github.com/falconilham/supply_inventory/blob/master/public/mobile%20view%20kitatani%20add%20stock%20success.jpg?raw=true)
+![Deduct Stock Success](https://github.com/falconilham/supply_inventory/blob/master/public/mobile%20view%20kitatani%20deduct%20stock%20success.jpg?raw=true)
+![Deduct Stock Error](https://github.com/falconilham/supply_inventory/blob/master/public/mobile%20view%20kitatani%20deduct%20stock%20error.jpg?raw=true)
 
 Feel free to contact me if anything happen on ilhama36@gmail.com
 Github: https://github.com/falconilham
