@@ -14,12 +14,14 @@ to download/clone this App
 
 install the dependencies
 
-### npm dev
+### npm run dev
 
 To Runs the app in the development mode.
 Open http://localhost:3000 to view it in the browser.
 
-## Screenshoot
+## This web is resposive
+
+## Screenshoot mobile view
 
 ![List Stock](https://github.com/falconilham/supply_inventory/blob/master/public/assets/mobile%20view%20kitatani.jpg)
 ![Add Stock](https://github.com/falconilham/supply_inventory/blob/master/public/assets/mobile%20view%20kitatani%20add%20stock.jpg)
